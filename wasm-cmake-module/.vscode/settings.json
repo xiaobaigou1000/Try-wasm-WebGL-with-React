@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.configureArgs": [
+        "-DCMAKE_TOOLCHAIN_FILE=/home/xiaobaigou/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake",
+        "-DCMAKE_CROSSCOMPILING_EMULATOR=\"/home/xiaobaigou/emsdk/node/12.18.1_64bit/bin/node\""
+    ]
+}
