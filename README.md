@@ -1,4 +1,4 @@
-# WASM WebGL示例
+# 基于React的WASM WebGL示例
 
 这是一个基于react的wasm WebGL模块示例，在C++中使用GLFW创建并绘制webgl es3.0画面，并在react中初始化wasm模块时绑定相应canvas。
 
