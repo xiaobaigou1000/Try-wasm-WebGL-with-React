@@ -2,6 +2,8 @@
 
 这是一个基于react的wasm WebGL模块示例，在C++中使用GLFW创建并绘制webgl es3.0画面，并在react中初始化wasm模块时绑定相应canvas。
 
+![image-20210112013405665](README.assets/image-20210112013405665.png)
+
 ## C++部分
 
 C++部分是一个cmake项目，理论上可以用以下代码编译
